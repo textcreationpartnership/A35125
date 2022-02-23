@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to all that profess the light of Jesus Christ within to be their guide by John Crook.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35125</idno>
+            <idno type="STC">Wing C7206</idno>
+            <idno type="STC">ESTC R29662</idno>
+            <idno type="EEBO-CITATION">11191376</idno>
+            <idno type="OCLC">ocm 11191376</idno>
+            <idno type="VID">46627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to all that profess the light of Jesus Christ within to be their guide by John Crook.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46627:1"/>
+            <pb facs="tcp:46627:1"/>
+            <p>AN EPISTLE TO All that profeſs the Light of Jeſus Chriſt WITHIN To be their Guide.</p>
+            <p>BY <hi>JOHN CROOK.</hi>
+            </p>
+            <p>Printed in the Year, 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46627:2"/>
+            <pb n="1" facs="tcp:46627:2"/>
+            <head>To all that Profeſs the Light of Je<g ref="char:EOLhyphen"/>ſus Chriſt (within) to be their Guide, Greeting.</head>
+            <opener>
+               <salute>Dear Friends, Brethren, and Siſters,</salute>
+            </opener>
+            <p>THat believe in the inward, and ſpiritual Grace, which is <hi>the Light</hi> of our <hi>Lord Jeſus Christ,</hi> I ſalute you all, deſiring, that as we <hi>received Chriſt Jeſus the Lord, we may all [ſo] walk in him.</hi> In order hereunto let us all watch, and be mindful how we received the truth at the be<g ref="char:EOLhyphen"/>ginning, which is the ſubject matter upon my heart, by this Epiſtle to ſignifie unto you.</p>
+            <p>For you know, many of us before we received the <hi>Truth (as it is in Jeſus)</hi> felt ſome ſtirrings of life, and therefore ſe<g ref="char:EOLhyphen"/>parated in our Judgments, and Opinions from the generality of our Neighbors, and Country men where we dwelt: be<g ref="char:EOLhyphen"/>cauſe of an inward <hi>cry</hi> from a deep want in our Souls, and hungering after the conſtant enjoyment of [that] which [we] with many others profeſſed; but could not find in any thing <hi>under the Sun.</hi>
+            </p>
+            <p>So poor and needy were we, that the dealings of <hi>God</hi> with our ſpirits in that day, in ſome ſenſe may be ſaid to reſemble Gods proceedings with <hi>Adam,</hi> when he ſet all the creatures before him, before he gave him a meet-helper, that when he ſaw he could find out no fit helper for himſelf amongſt them all, he might make the more account of the <hi>meet helper</hi> that was [after] given him of <hi>God.</hi>
+            </p>
+            <p>So it was inwardly with us, until that <hi>Trumpet</hi> ſounded which directed our minds to the light of <hi>Chriſt Jeſus</hi> in our own hearts and Conſciences, which when we believed the <hi>report,</hi> and made tryal of its <hi>ſufficiency,</hi> we ſoon found the
+<pb n="2" facs="tcp:46627:3"/>
+               <hi>meet-helper</hi> for our ſouls (to wit) the <hi>arm of the Lord to be re<g ref="char:EOLhyphen"/>vealed</hi> in [it] and made [ſo] <hi>bare,</hi> that we knew it to be the <hi>Lords own arm,</hi> which brought deliverance to us.</p>
+            <p>But not from all our enemies at once, yet [ſo] that we un<g ref="char:EOLhyphen"/>derſtood plainly, (by certain experience) that the tendency thereof, and the end of its being made <hi>bare,</hi> was in order to deliver <hi>us out of the hands of [all] our enemies; that being de<g ref="char:EOLhyphen"/>livered, we might ſerve God without a tormenting, diſtrustful fear in holineſs, and righteouſneſs before [him] all the days of our lives.</hi>
+            </p>
+            <p>And the way thereunto, was by the working of this <hi>arm</hi> of power in our inward parts, to make a ſeparation [within] be<g ref="char:EOLhyphen"/>tween the precious and the vile within, and between our own ſpirits, and <hi>Gods Spirit;</hi> between our own wills, and <hi>Gods will;</hi> between our own thoughts, and <hi>Gods thoughts;</hi> and our own ways, and <hi>Gods ways,</hi> &amp;c.</p>
+            <p>So that we found the great buſineſs of <hi>regeneration and re<g ref="char:EOLhyphen"/>ſtauration</hi> was to be wrought [within us;] and what ſorrow, what trouble, what horror, what diſtreſs, <hi>what Warrs, and ru<g ref="char:EOLhyphen"/>mor of warrs,</hi> was [within us] many knows; and what <hi>earth<g ref="char:EOLhyphen"/>quakes</hi> was in divers hearts (which might occaſion the name QUAKER to be given to ſome of us) thoſe that were <hi>eye-wit<g ref="char:EOLhyphen"/>neſſes from the</hi> beginning are not ignorant of theſe things.</p>
+            <p>O what carefulneſs, what watchfulneſs, what circumſpe<g ref="char:EOLhyphen"/>ction, what awfulneſs of God, and what dread of his power was upon our ſpirits, leſt we ſhould ſpeak our own words, work our own works, walk in our [own] ways, or think our [own] thoughts; ſo diligently did we keep a watching, and over our own hearts, being conſcious to our ſelves, that we ſhould give an account for every idle word, which cauſed us to learn <hi>a bridle for our tongues, that our words might be few, and ſavory, miniſtring grace to the hearers.</hi>
+            </p>
+            <p>How ſolid were our looks? how grave were our counte<g ref="char:EOLhyphen"/>nances, how ſerious were our carriages? and how exempla<g ref="char:EOLhyphen"/>ry our behaviours, and converſations amongſt all that we converſed with? leſt we ſhould give occaſion for any to ſpeak evil of the bleſſed truth of the Living God.</p>
+            <pb n="3" facs="tcp:46627:3"/>
+            <p>And if any, though but newly convinced thereof, walked diſorderly, or that took up their <hi>reſt</hi> in a [bare] convincement, and came not to be converted to <hi>the life, and power of God</hi> in their own particular (which at the beginning was ſoon diſco<g ref="char:EOLhyphen"/>vered by <hi>that ſpirit of diſcerning</hi> which in the <hi>light</hi> we recei<g ref="char:EOLhyphen"/>ved from <hi>God</hi>
+            </p>
+            <p>How conſcienciouſly ſolicitous were we, to admoniſh, in<g ref="char:EOLhyphen"/>ſtruct, adviſe and counſel them to take heed of a falſe <hi>reſt,</hi> or running into, or doing any thing by [bare] imitation from others: Yet how tender were we, of bruiſing, hurting, ſtop<g ref="char:EOLhyphen"/>ping, or hindering any ſtirrings of <hi>light and life,</hi> leſt <hi>the lame ſhould be turned out of the way,</hi> or the ſeeble be left behind.</p>
+            <p>The ſpirit of Holy <hi>David</hi> was in our hearts, who would not conſent that <hi>the ſore, and weary ones</hi> (<hi>that could not get over the River</hi> Bezor, <hi>ſhould loſe their part of the prey, becauſe they tarried with the stuff;</hi> but made it a <hi>Law, and a Statute in Iſrael for ever, that they ſhould have part alike.</hi>
+            </p>
+            <p>And how did we love, and pity thoſe, that took pleaſure in the <hi>ſtones of</hi> Zion, <hi>and favoured the duſt thereof?</hi> what care<g ref="char:EOLhyphen"/>fulneſs was upon us for them; and if we found any but like the <hi>young man</hi> (in <hi>Mark</hi> 19.22) that had been religiouſly inclined from their <hi>youth,</hi> how did we love them? watching for opportunities to communicate ſome ſpiritual advice unto them.</p>
+            <p>As if the new <hi>kindred that Chriſt</hi> ſpeaks of, <hi>Mat.</hi> 12. (to wit] <hi>Whoſoever ſhall do my Fathers will (the ſame is my Mother, Si<g ref="char:EOLhyphen"/>ſter, and Brother)</hi> was now diſcovered again, and the <hi>beauties of holineſs</hi> were now made manifeſt, with the many glorious priviledges enjoyed thereby; as to ſee clearly, and know certainly the <hi>living God;</hi> for hereby came we <hi>to know [that we knew him]</hi> becauſe of the <hi>beauties of holineſs,</hi> in keeping cloſe to [his <hi>Commandments</hi>] whereby our love to God, and one to another was manifeſt unto all.</p>
+            <p>For we durſt not let in diſtruſtful thoughts of <hi>God,</hi> nor one of another, Faith in him [then] becoming our <hi>Law;</hi> ſo that our care was ſtedfaſtly, and conſtantly to believe in the <hi>light,</hi> by which we had ſeen <hi>him,</hi> and to dwell in a holy fear, leſt
+<pb n="4" facs="tcp:46627:4"/>we ſhould tranſgreſs <hi>the Law of Faith,</hi> by which <hi>Chriſt was [then] kept dwelling in our hearts,</hi> and all <hi>boasting</hi> of SELF-RIGHTEOUSNESS was utterly <hi>excluded.</hi>
+            </p>
+            <p>But with how much difficulty we kept [that] Faith, you only know, who like valiant Souldiers have <hi>endured hardſhip in the good ſight of Faith,</hi> whereby we our ſelves were pre<g ref="char:EOLhyphen"/>ſerved, and <hi>kept by the power of God through Faith,</hi> that we might (in due time) <hi>receive the end of our Faith</hi> (for we had nothing elſe in our eye, but to be ſaved from <hi>ſin</hi>) [to wit) <hi>the ſalvation of our ſouls.</hi>
+            </p>
+            <p>And then, becauſe we believed <hi>in the power,</hi> as we were moved of [it] we ſpake by [it] and [ſuch words] like <hi>Jona<g ref="char:EOLhyphen"/>thans bow, never returned empty,</hi> but wounded the <hi>Hypocrites;</hi> like the <hi>man that ſhot the arrow out of ſimplicity,</hi> which ſmote <hi>diſguiſed Ahab between the harneſs;</hi> ſo that he <hi>died according to the word of the Lord by</hi> Micaiah.</p>
+            <p>You may remember alſo, how like <hi>Ephraim</hi> (at firſt) we were <hi>as little children, and ſpake trembling;</hi> ſaying often in our hearts, ar <hi>Jacob</hi> did of the <hi>Mountain</hi> where <hi>God</hi> appeared (to wit) <hi>how dreadful is this place,</hi> and [then] how quick, and powerful were [thoſe words] that proceeded from that <hi>dread of God</hi> in our hearts</p>
+            <p>The great <hi>mystery</hi> of the <hi>falſe Prophet,</hi> that rides upon the Beaſt, being [then] inwardly diſcovered, with the <hi>myſtery of his name, and number thereof</hi> (to wit) <hi>the number of a man;</hi> which cauſed us at the <hi>beginning</hi> ſo to cry down vain, corrupt man, both in our ſelves, and others; feeling that <hi>[God]</hi> was riſen in [his] <hi>power, to confound its wiſdom,</hi> and to bring his <hi>fleſhly prudence and policy to nothing:</hi> therefore we feared the getting up of that <hi>mans-part</hi> in our ſelves, being ſo battered by the inward <hi>Judgments of God</hi> upon our ſelves.</p>
+            <p>That with good <hi>Jehoſaphat</hi> we ſaid in our hearts, <hi>we know not what to do, but our eyes are towards thee, O God;</hi> then in this <hi>valley</hi> of helpleſneſs, ſtraights, poverty, lowlineſs, and humility, God pleaded with our <hi>fleſhly part;</hi> ſo that in the day of our diſtreſs, although we multiplied our ſervices, and <hi>doubled</hi> our offerings and obſervations, to obtain relief; yet
+<pb n="5" facs="tcp:46627:4"/>Chriſt refuſed all theſe our works, that he might [freely] make himſelf known unto us (which in due time he did) as <hi>Joſeph unto his brethren</hi> (and ſaith that <hi>Scripture</hi>) <hi>there ſtood no man with him, when he made himſelf known unto them;</hi> to the exalting of the <hi>riches of the glory of his grace</hi> [in us] where<g ref="char:EOLhyphen"/>by ſorrow fled away, and our own mournful ſpirits were now made <hi>to rejoyce in God,</hi> and our formerly troubled ſouls began now <hi>to magnifie our Saviour.</hi>
+            </p>
+            <p>Thus <hi>former things paſſed away,</hi> till the tempeſtuous <hi>Sea</hi> was no more; but joy and gladneſs was in our dwellings, and the voice of melody in all our <hi>hearts,</hi> and in the midſt of all our <hi>Aſſemblies.</hi>
+            </p>
+            <p>But before we came hither, you know (fellow Travellers) that <hi>Mount Sinai</hi> was firſt in our way, where we tarried a while, and felt the entertainment of her flames, and heard <hi>the voice of words, and the ſound of her trumpets,</hi> and were witneſſes of her terrible <hi>earth-quakes</hi> [yet fled not] but with <hi>Moſes,</hi> a remnant <hi>drew near unto the thick darkneſs where God was:</hi> but others made this <hi>Mountain</hi> the end of their journy, eſcaping with their <hi>lives</hi> ſtill in their own doings: yet theſe, though they might in Profeſſion come out with us, thus far they were not of us, and (in time) will go out from us, that it may appear they came not through [all] <hi>the tribulations</hi> that a remnant went through.</p>
+            <p>For from thence a remnant came unto the miniſtration of <hi>the Prophets,</hi> where they met with openings, and <hi>propheſies</hi> of good things [yet] to come, before they did come: and here others fled as on the <hi>Sabbath day,</hi> as if [now] all labour was at an end, and here they took up their reſt, (but <hi>God</hi> did not <hi>ſanctifie it</hi>) and therefore glorying and pride got up in theſe; Boaſting in the <hi>GIFTED-MAN,</hi> ſoon forgetting all <hi>dependance</hi> upon the opener, <hi>viz. the ſpirit of truth,</hi> to exerciſe their hearts and tongues in the mannagement of all, for the glory of God, and refreſhment of his own <hi>ſeed</hi> in the hearts of his people.</p>
+            <p>But a remnant ſtill travelled on, through <hi>John Baptiſts cry in the wilderneſs (make ſtraight the way of the Lord)</hi> and come
+<pb n="6" facs="tcp:46627:5"/>to repentance for all their dead words, and works, <hi>that every valley might be filled, and every mountain, and hill brought low, and the crooked made ſtraight, and the rough ways made ſmooth;</hi> then came we to ſee the <hi>ſalvation of God</hi> (to wit) the <hi>Lamb of God that takes away the ſins of the world,</hi> whom then we fol<g ref="char:EOLhyphen"/>lowed, leaving <hi>[John]</hi> as ſome of his [own] <hi>diſciples</hi> did.</p>
+            <p>Some alſo came with us as far as <hi>Johns Baptiſm that waſheth away the filth of the fleſh;</hi> but not coming to the <hi>Baptiſm of Chriſt, which waſheth all filthineſs both of fleſh and ſpirit;</hi> alſo they left us at <hi>John:</hi> ſuch as theſe may be compared to the <hi>King of Iſrael, who at the command of the Prophet ſmote the ground often; but not ſmiting it long enough</hi> (until the enemy was conſumed) he miſſed of <hi>a perfect victory, and full conqueſt:</hi> ſo do all that take up their <hi>reſt</hi> in any thing ſhort <hi>of the Lamb of God.</hi>
+            </p>
+            <p>Theſe things being thus witneſſed in the ſpiritual travels of a remnant at the <hi>beginning,</hi> let us all ſearch and try our ways, whether we be ſtill <hi>following the ancient foot-ſteps of the flocks of the companions,</hi> by keeping in the pure ſeparation from the fleſhly part in our ſelves, miniſtring [only] from <hi>the ability that God gives,</hi> which a remnant that have kept to their firſt love, and their garments clean therein, have done to the praiſe of the Lord God Almighty for ever.</p>
+            <p>My exhortation therefore is unto all, but more eſpecially to you that are Children of believing Parents, and Servants to believing Maſters, with all the younger men, and younger women convinced in theſe later times (knowing that a rem<g ref="char:EOLhyphen"/>nant of theſe alſo have kept their garments clean) to <hi>examine your ſelves</hi> how you came by your Profeſſion? whether you that are Children, and Servants, received it by tradition, only becauſe of your outward Relations. <hi>&amp;c.</hi> or from the inward work of God upon your own ſpirits, as thoſe did that recei<g ref="char:EOLhyphen"/>ved the truth <hi>(in the love of God)</hi> at the beginning.</p>
+            <p>For many may endure <hi>ſufferings,</hi> and undergo the <hi>reproach</hi> of a <hi>Q<g ref="char:V">Ʋ</g>AKER,</hi> and all for ſiniſter ends; as the <hi>Shechemites endured the pain of Circumciſion to obtain</hi> Dinah, Jacobs <hi>Daugh<g ref="char:EOLhyphen"/>ter,</hi> and to accompliſh their other ends, and intereſts: on
+<pb n="7" facs="tcp:46627:5"/>theſe terms they were willing to be <hi>one people with the Iſrae<g ref="char:EOLhyphen"/>lites;</hi> as too many on like conditions at this day may be wil<g ref="char:EOLhyphen"/>ling to be called QUAKERS; to whom I ſay, as <hi>Jacob</hi> did to <hi>Simeon</hi> and <hi>Levi, you have troubled us,</hi> and (as much as in you lies) <hi>have made the truth to ſtink amongſt the inhabitants of the Land;</hi> (yet a remnant dare not do ſo, bleſſed be the Lord.)</p>
+            <p>But to you that are <hi>grieved, and troubled,</hi> becauſe of theſe <hi>Shechemites,</hi> I ſay to you alſo, as the <hi>Lord</hi> on this occaſion ſaid unto <hi>troubled Jacob, Ariſe, let [us] go up to Bethel</hi> (the houſe of God) <hi>and dwell there, Gen.</hi> 35. (where no <hi>Shechemites</hi> can come.)</p>
+            <p>O the bemoanings of many tender ſouls [at the begin<g ref="char:EOLhyphen"/>ning] for the loſs of their conditions, ſometimes through their own negligence, and ſometimes through the enemies ſubtilty (<hi>weeping like</hi> Rachel <hi>for her children, and refuſing to be comforted, becauſe they were not</hi>) are freſh in my remem<g ref="char:EOLhyphen"/>brance.</p>
+            <p>But of later times many come amongſt us, that in out<g ref="char:EOLhyphen"/>ward appearance may ſeem to be of us, who as yet never tru<g ref="char:EOLhyphen"/>ly knew the meaning of ſuch <hi>bemoanings,</hi> nor the bitterneſs of <hi>Rachels</hi> tears, but walk as if the <hi>gate</hi> of entrance into <hi>the truth,</hi> was grown wider, and the <hi>path, and way thereof, broader</hi> than [it] was at the <hi>beginning;</hi> for how careful were thoſe that came to witneſs the [truth] at the beginning to keep <hi>low, and humble,</hi> that they might not be drawn from their <hi>own meaſures,</hi> leſt their [own] words ſhould become their bur<g ref="char:EOLhyphen"/>den, and they be condemned in themſelves, for uttering that (as <hi>in the name of God</hi>) which came not from the <hi>Spirit of the living God.</hi>
+            </p>
+            <p>Therefore it was that <hi>ſo mightily grew the word of God, and proſpered</hi> (bringing all down <hi>to the loathing of their perſons</hi> in true <hi>humility</hi>) growing up in every honeſt heart, that <hi>the fruits of the Spirit were manifest, as in the Apoſtles days (to wit) love, joy, peace, long-ſuffering, gentleneſs, goodneſs, faith, meek<g ref="char:EOLhyphen"/>neſs, temperance; againſt ſuch there is no law, ſaith the Apoſtle: and they that are Chriſts have crucified the fleſh, with the affe<g ref="char:EOLhyphen"/>ctions, and luſts. If we live in the ſpirit, let us all ſo walk in the
+<pb n="8" facs="tcp:46627:6"/>ſpirit, let us not be deſirous (ſaith the Apoſtle) of vain-glory, provoking one another, envying one another,</hi> &amp;c.</p>
+            <p>
+               <hi>But like Brethren (ſaith the ſame Apoſtle) if a man be over<g ref="char:EOLhyphen"/>taken in a fault, ye which are ſpiritual, restore ſuch an one in the ſpirit of meekneſs, conſidering thy ſelf, lest thou alſo be tem<g ref="char:EOLhyphen"/>pted, bear ye one anothers burdens, and ſo fulfil the Law of Christ.</hi>
+            </p>
+            <p>My heart is overcome when I take a view of Gods deal<g ref="char:EOLhyphen"/>ings with us from the day that he firſt viſited us unto this pre<g ref="char:EOLhyphen"/>ſent time; <hi>My dear friends and brethren,</hi> you know how <hi>Christ (our Joſeph) knew us when we knew not him, and made himſelf known to us (as Joſeph did unto his brethren)</hi> while guilt, and fear; diſtruſt, and horror was in their ſpirits, and then commanded, that they ſhould do unto, and one for an<g ref="char:EOLhyphen"/>other, as he had done unto, and for them all.</p>
+            <p>Therefore ſet all come down to the remembrancer, the Spirit of Truth, which will diſtinguiſh between thoſe that are now arrayed with the <hi>beautiful garments of their youthful days, viz.</hi> humility, meekneſs, righteouſneſs, and the true zeal of the Lord and thoſe that have only a ſhew of it; and there let [us] behold one another in our comely attire, as with the lovely <hi>Coat of Joſeph</hi> upon our backs, and the glori<g ref="char:EOLhyphen"/>ous <hi>viſions of the Almighty</hi> in our hearts, judging down all ſtirrings of <hi>envyings, and evil ſurmiſings</hi> againſt any; know<g ref="char:EOLhyphen"/>ing right well that all ſuch <hi>lowings, and bleatings</hi> are comman<g ref="char:EOLhyphen"/>ded to be ſlain: for can we conſider the <hi>price</hi> we coſt at <hi>firſt,</hi> and the love, care, and watchfulneſs of our <hi>God</hi> over us unto this day, of whom a remnant can ſay (as <hi>Jacob</hi> did) <hi>(he hath fed us all our life long)</hi> and not be in love one with another.</p>
+            <p>Can we contemplate of the <hi>miſeries</hi> we have been deliver<g ref="char:EOLhyphen"/>ed from, and the <hi>mercies</hi> we have been made partakers of ſince we were a people, and not be <hi>humbled</hi> before our <hi>God,</hi> for any unthankfulneſs and diſtruſt: Can we view the <hi>priſons,</hi> and <hi>dungeons,</hi> the <hi>baniſhments,</hi> and all <hi>outward loſſes and ſpoil<g ref="char:EOLhyphen"/>ing of our goods,</hi> with the <hi>reproachful ſcoffs, and ſcornful ſlight<g ref="char:EOLhyphen"/>ings,</hi> by ſuch, that ſome could ſay (with holy <hi>Job</hi>) <hi>they were not worthy to eat with the dogs of their flocks,</hi> and not be mol<g ref="char:EOLhyphen"/>ted
+<pb n="9" facs="tcp:46627:6"/>before the <hi>Lord,</hi> and abaſed as <hi>unworthy</hi> of the leaſt of all his <hi>mercies.</hi>
+            </p>
+            <p>And can we remember our bleſſed ſupport under all thoſe <hi>ſufferings,</hi> and the ſweet <hi>preſence of the Spirit of Chriſt</hi> in our hearts, ſaying in us under all theſe <hi>tryals and excerciſes,</hi> as the <hi>Diſciples</hi> did, when they returned to Chriſt their Maſter, after their <hi>weary travels</hi> (to wit) <hi>we wanted nothing,</hi> &amp;c. we <hi>wanted</hi> no <hi>perfumes</hi> to take away the <hi>noiſome ſmells,</hi> we <hi>wanted</hi> nothing to make our <hi>hard lodging eaſie,</hi> we <hi>wanted no pleaſant walks</hi> to make <hi>our ſtrait confinements joyous,</hi> nor we <hi>wanted not the ſociety</hi> of outward <hi>relations, and former acquaintance, to paſs away the time,</hi> becauſe the <hi>Lord our God</hi> turned all our <hi>hardſhips</hi> into <hi>unſpeakable</hi> comfort, and true <hi>contentment.</hi>
+            </p>
+            <p>And ſhall any now ſay, Gods <hi>arm is ſhortned that he cannot ſave, or his ear is heavy that he cannot hear? God forbid,</hi> that all the <hi>milk, and wine, and honey,</hi> and other <hi>fat things</hi> (with which we have been often <hi>ſpiritually feasted at Gods table</hi>) ſhould be all forgotten and buried in the <hi>Wilderneſs,</hi> ſaying in our ſelves as rebellious <hi>Iſrael</hi> did of old (to wit) <hi>can he now prepare ſuch a table in the Wilderneſs for us?</hi>
+            </p>
+            <p>But rather let us with <hi>Manoah</hi>'s Wife, the Mother of <hi>Sam<g ref="char:EOLhyphen"/>pſon,</hi> conclude, <hi>If the Lord were pleaſed to kill us, he would not have received a burnt-offering, and a meat offering at our hands; neither would he have ſhewed us all theſe things,</hi> and done ſo much for us as he hath done from the very beginning, that we were a people unto this day.</p>
+            <p>Therefore lift up your heads you <hi>valliants of Iſrael,</hi> that have come through the <hi>dark-burning-Mountain,</hi> and through the pleaſant and delightful <hi>Openings, and Propheſies,</hi> through, and beyond all outward <hi>waſhings,</hi> unto the <hi>Lamb of God,</hi> that <hi>your robes may be waſhed white in his Blood,</hi> that thereby you may <hi>overcome,</hi> and then ſit down in that <hi>Kingdom which can<g ref="char:EOLhyphen"/>not be ſhaken,</hi> with weary <hi>Abraham,</hi> throughly-tired <hi>Iſaac,</hi> and wreſtling <hi>Jacob.</hi>
+            </p>
+            <p>O how glorious are you [all] in the ſight of God, and all his people, even as an <hi>Army terrible with banners</hi> in the ſight of all adverſaries; therefore keep your <hi>ranks,</hi> and march on
+<pb n="10" facs="tcp:46627:7"/>in your <hi>heavenly way,</hi> which the <hi>Lord of Hoſts himſelf hath ſet you in,</hi> and <hi>Babylon</hi> the [great] ſhall fall before you, more and more, for the <hi>Lord of Hoſts</hi> hath ſpoken it; and you with all the holy <hi>Martyrs</hi> of <hi>Jeſus</hi> ſhall rejoyce over her down-fal for ever.</p>
+            <p>Theſe few words further and again, ſprings up in my heart to you all dear Friends, Brethren, and Siſters, (to wit) that we may be always mindful how we received the truth at the beginning, and be careful that we travel on with our <hi>feet</hi> always <hi>ſhod</hi> with the ſame <hi>humily,</hi> and <hi>poverty of ſpirit</hi> [as] when we were firſt <hi>ſhod with the preparation of the Goſpel of peace.</hi>
+            </p>
+            <p>Never forgetting, nor changing the <hi>poor mans food</hi> (to wit) our old <hi>water</hi> and <hi>pulſe,</hi> for any <hi>portion</hi> of the <hi>rich mans dain<g ref="char:EOLhyphen"/>ties,</hi> but ſtill waiting on God, that in due ſeaſon gives both milk to babes, and ſtrong meat to them of riper age; bearing in our remembrance the great execution that was done at the beginning, by the ſmooth ſtones out of the poor Shepherds bag.</p>
+            <p>Now to the pure harmleſs ſeed (that cries in our hearts) I commend you all, that therein (as in the <hi>cleft</hi> of [that] <hi>Rock</hi>) againſt which the gates of Hell ſhall never prevail) we all may dwell and abide for ever; ſo ſhall the work of the Lord proſper to his own Glory, and all our comforts for ever. <hi>Amen,</hi>
+            </p>
+            <closer>
+               <signed>John Crook.</signed>
+               <date>The 17th. of the. 6th. Month, 1678.</date>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:46627:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
